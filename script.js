@@ -9,4 +9,4 @@ $("#carouselButton").click(function(){
         $("#carouselButton").children("span").removeClass('fa-play');
         $("#carouselButton").children("span").addClass('fa-pause');                    
     }
-});
+}); 
